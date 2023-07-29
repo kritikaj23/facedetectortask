@@ -1,0 +1,4 @@
+import cv2
+cap = cv2.VideoCapture
+model = cv2.CascadeClassifier("myharrcascade_frontal_default.xml")
+  
